@@ -10,13 +10,16 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 public class JsoupHtmlParser {
+	String query= null;
 
-	public static void main(String[] args) {
-		System.out.println("Type your search query");
-
-		String query = new Scanner(System.in).nextLine().replace(" ", "+");
-
-		System.out.println("Running jSoupHtmlParser on query: " + query);
+	public void jsouphtml() {
+		
+		
+//		System.out.println("Type your search query");
+//
+//		String query = new Scanner(System.in).nextLine().replace(" ", "+");
+//
+//		System.out.println("Running jSoupHtmlParser on query: " + query);
 		Document doc;
 		try {
 
@@ -30,7 +33,7 @@ public class JsoupHtmlParser {
 
 				// get page title
 				String title = doc.title();
-				System.out.println("\ntitle : " + title);
+//				System.out.println("\ntitle : " + title);
 
 				// yahoo = "h3.title > a"
 				// bing = "h2 a"
@@ -42,17 +45,17 @@ public class JsoupHtmlParser {
 				}
 
 				Elements links = doc.select(selection);
-				System.out.println("length of links: " + links.size());
+				System.out.println("\nOutput from: " + searchPage +".... \n");
 				for (Element link : links) {
 
 					// get the value from href attribute
-					System.out.println("\ntext : "
-							+ Jsoup.parse(tempSearch).body().text());
-					System.out.println("linkHref : " + link.attr("href"));
-					System.out.println("linkText : " + link.text());
-					System.out.println("hasClass : " + link.hasClass("r"));
-					System.out.println("absHref: " + link.attr("abs:href"));
-					System.out.println("tagName : " + link.tagName());
+//					System.out.println("\ntext : "
+//							+ Jsoup.parse(tempSearch).body().text());
+					System.out.println(link.attr("href"));
+//					System.out.println("linkText : " + link.text());
+//					System.out.println("hasClass : " + link.hasClass("r"));
+//					System.out.println("absHref: " + link.attr("abs:href"));
+//					System.out.println("tagName : " + link.tagName());
 
 				}
 			}

@@ -1,8 +1,11 @@
 package jbean;
 
 import java.io.BufferedReader;
+import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.ProtocolException;
 import java.net.URL;
 
 /*
@@ -16,10 +19,13 @@ import java.net.URL;
  * @author Esha
  */
 public class GoogleCustomSearchApi {
-    public static void main(String[] args) throws Exception {
+	
+	String qry=null;
+	
+    public void cse() throws IOException {
 
 	    String key="AIzaSyCnAIDiZchNkR0OTBH3NMMNt4GmRiwpdnA";//server key
-	    String qry="Esha+Massand";
+	    
 	    String cx = "008818185974073145685:ga_fmgk9gf0";
 	    URL url = new URL(
 	            "https://www.googleapis.com/customsearch/v1?key="+key+ "&cx="+ cx +"&q="+ qry + "&alt=json");
@@ -30,7 +36,7 @@ public class GoogleCustomSearchApi {
 	            (conn.getInputStream())));
 
 	    String output;
-	    System.out.println("Output from Server .... \n");
+	    System.out.println("Output from Google .... \n");
 	    while ((output = br.readLine()) != null) {
 
 	        if(output.contains("\"link\": \"")){                
@@ -40,6 +46,8 @@ public class GoogleCustomSearchApi {
 	    }
 	    conn.disconnect();                              
 	}
+
+
 }
 
 
