@@ -3,6 +3,7 @@ package jbean;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.PrintWriter;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.ProtocolException;
@@ -36,14 +37,16 @@ public class GoogleCustomSearchApi {
 	            (conn.getInputStream())));
 
 	    String output;
-	    System.out.println("Output from Google .... \n");
+	    PrintWriter writer = new PrintWriter("AllLinks.txt", "UTF-8");
+	    writer.println("Output from www.google.com/search?q="+qry+"\n");
 	    while ((output = br.readLine()) != null) {
 
 	        if(output.contains("\"link\": \"")){                
 	            String link=output.substring(output.indexOf("\"link\": \"")+("\"link\": \"").length(), output.indexOf("\","));
-	            System.out.println(link);       //Will print the google search links
+	            writer.println(link);       //Will print the google search links
 	        }     
 	    }
+	    writer.close();
 	    conn.disconnect();                              
 	}
 
