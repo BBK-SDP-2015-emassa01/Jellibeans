@@ -1,17 +1,16 @@
 package jbean;
 
-import java.io.FileWriter;
+
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Scanner;
+
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-public class JsoupHtmlParser {
+public class JsoupHtmlParser{
 	String query = null;
 	public ArrayList<String> jSoupYahooLinks = new ArrayList<>();
 	public ArrayList<String> jSoupBingLinks = new ArrayList<>();
