@@ -1,0 +1,61 @@
+Output from Google, Yahoo and Bing, for query: Autism
+<a href="http://www.autism.org.uk/" class=""><b>National Autistic Society</b> - Official Site</a>
+
+<a href="http://www.autism.org.uk/" h="ID=SERP,5127.1"><strong>National Autistic Society</strong> - Official Site</a>
+
+https://www.autismspeaks.org/what-autism
+
+<a href="https://www.autismspeaks.org/what-autism" class="">What Is <b>Autism</b>? | | <b>Autism</b> Speaks</a>
+
+<a href="https://www.autismspeaks.org/what-autism" h="ID=SERP,5140.1">What Is <strong>Autism</strong>? | | <strong>Autism Speaks</strong></a>
+
+http://www.ninds.nih.gov/disorders/autism/detail_autism.htm
+
+<a href="http://en.wikipedia.org/wiki/Autism" class=""><b>Autism</b> - Wikipedia, the free encyclopedia</a>
+
+<a href="http://en.wikipedia.org/wiki/Autism" h="ID=SERP,5159.1"><strong>Autism</strong> - Wikipedia, the free encyclopedia</a>
+
+https://en.wikipedia.org/wiki/Autism
+
+<a href="http://www.nhs.uk/Conditions/Autistic-spectrum-disorder/Pages/Introduction.aspx" class=""><b>Autism</b> spectrum disorder - NHS Choices</a>
+
+<a href="http://www.nhs.uk/Conditions/Autistic-spectrum-disorder/Pages/Introduction.aspx" h="ID=SERP,5172.1"><strong>Autism</strong> spectrum disorder - NHS Choices</a>
+
+https://www.autismspeaks.org/
+
+<a href="http://www.webmd.boots.com/children/guide/mental-health-autism" class=""><b>Autism</b> symptoms, causes, treatment, and more</a>
+
+<a href="http://www.webmd.boots.com/children/guide/mental-health-autism" h="ID=SERP,5185.1"><strong>Autism</strong> symptoms, causes, treatment, and more</a>
+
+http://www.cdc.gov/ncbddd/autism/
+
+<a href="http://www.medicalnewstoday.com/info/autism/" class="">What is <b>Autism</b>? What Causes <b>Autism</b>? - Medical News Today</a>
+
+<a href="http://www.medicalnewstoday.com/info/autism/" h="ID=SERP,5201.1">What is <strong>Autism</strong>? What Causes <strong>Autism</strong>? - Medical News Today</a>
+
+http://www.autism-society.org/
+
+<a href="http://www.autism.org.uk/about-autism.aspx" class="">About <b>autism</b> - NAS</a>
+
+<a href="http://www.autism.org.uk/about-autism.aspx" h="ID=SERP,5214.1">About <strong>autism</strong> - NAS</a>
+
+http://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd/
+
+<a href="http://www.ninds.nih.gov/disorders/autism/detail_autism.htm" class=""><b>Autism</b> Fact Sheet: National Institute of Neurological ...</a>
+
+<a href="http://www.ninds.nih.gov/disorders/autism/detail_autism.htm" h="ID=SERP,5230.1"><strong>Autism</strong> Fact Sheet: National Institute of Neurological ...</a>
+
+http://www.autism-society.org/what-is/
+
+<a href="http://www.cdc.gov/ncbddd/autism/index.html" class="">CDC | Home | <b>Autism</b> Spectrum Disorder (ASD) | NCBDDD</a>
+
+<a href="http://www.cdc.gov/ncbddd/autism/index.html" h="ID=SERP,5243.1">CDC | Home | <strong>Autism</strong> Spectrum Disorder (ASD) | NCBDDD</a>
+
+http://www.autism.com/
+
+<a href="http://www.autism-society.org/what-is/" class="">About <b>Autism</b> | <b>Autism</b> Society</a>
+
+<a href="http://www.autism-society.org/what-is/" h="ID=SERP,5256.1">About <strong>Autism</strong> | <strong>Autism</strong> Society</a>
+
+http://www.webmd.com/brain/autism/
+

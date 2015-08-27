@@ -1,0 +1,61 @@
+Output from Google, Yahoo and Bing, for query: weather
+<a href="http://www.bbc.co.uk/weather/" class=""><b>BBC Weather</b> - Official Site</a>
+
+<a href="http://www.bbc.co.uk/weather/" h="ID=SERP,5121.1"><strong>BBC Weather</strong> - Official Site</a>
+
+http://www.weather.com/
+
+<a href="http://www.metoffice.gov.uk/public/weather/forecast/" class="">UK <b>weather</b> forecast - Met Office</a>
+
+<a href="http://www.metoffice.gov.uk/public/weather/forecast/" h="ID=SERP,5134.1">UK <strong>weather forecast</strong> - <strong>Met Office</strong></a>
+
+http://www.weather.gov/
+
+<a href="http://uk.weather.com/" class="">The <b>Weather</b> Channel - <b>Weather</b> Forecasts, 10 day, weekend ...</a>
+
+<a href="http://uk.weather.com/" h="ID=SERP,5147.1">The <strong>Weather</strong> Channel - <strong>Weather</strong> Forecasts, 10 day, weekend ...</a>
+
+http://www.wunderground.com/
+
+<a href="http://www.metoffice.gov.uk/" class=""><b>Met Office</b> - Official Site</a>
+
+<a href="http://www.accuweather.com/en/world-weather" h="ID=SERP,5160.1">World <strong>Weather</strong> - AccuWeather.com</a>
+
+https://weather.yahoo.com/
+
+<a href="http://www.weather.com/#!" class="">National and Local <b>Weather</b> Forecast, Hurricane, Radar and Report</a>
+
+<a href="http://www.metoffice.gov.uk/" h="ID=SERP,5173.1"><strong>Met Office</strong> - Official Site</a>
+
+http://www.accuweather.com/
+
+<a href="https://uk.weather.yahoo.com/" class="">Yahoo <b>Weather</b> UK &amp; Ireland - Worldwide <b>Weather</b> Forecasts | Maps</a>
+
+<a href="http://www.weather-forecast.com/" h="ID=SERP,5186.1">10 Day <strong>Weather Forecast</strong> Worldwide</a>
+
+http://www.cnn.com/weather
+
+<a href="http://www.bbc.com/weather/" class=""><b>WEATHER</b> FORECAST - BBC <b>Weather</b></a>
+
+<a href="http://www.weather.com/#!" h="ID=SERP,5198.1">National and Local <strong>Weather Forecast</strong>, Hurricane, Radar and ...</a>
+
+http://www.intellicast.com/
+
+<a href="http://www.forecast.co.uk/" class=""><b>Weather</b> Forecast - Forecast.co.uk</a>
+
+<a href="https://uk.weather.yahoo.com/" h="ID=SERP,5210.1">Yahoo <strong>Weather</strong> UK &amp; Ireland - Worldwide <strong>Weather</strong> Forecasts ...</a>
+
+http://www.accuweather.com/en/us/national/weather-radar
+
+<a href="http://www.bbc.com/weather/2635167" class="">BBC <b>Weather</b> - United Kingdom</a>
+
+<a href="http://www.bbc.com/weather/" h="ID=SERP,5223.1"><strong>WEATHER FORECAST</strong> - <strong>BBC Weather</strong></a>
+
+https://www.aviationweather.gov/
+
+<a href="https://weather.yahoo.com/" class="">Yahoo <b>Weather</b> - <b>Weather</b> Forecasts | Maps | News</a>
+
+<a href="http://www.forecast.co.uk/" h="ID=SERP,5236.1"><strong>Weather Forecast</strong> - Forecast.co.uk</a>
+
+http://www.bbc.com/weather/
+

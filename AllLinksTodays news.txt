@@ -1,0 +1,61 @@
+Output from Google, Yahoo and Bing, for query: todays+news
+<a href="http://www.dailymail.co.uk/news/index.html" class=""><b>News</b> - Daily Mail Online</a>
+
+<a href="http://www.dailymail.co.uk/news/index.html" h="ID=SERP,5120.1"><strong>News</strong> - <strong>Daily Mail</strong> Online</a>
+
+http://www.cnn.com/
+
+<a href="http://www.mirror.co.uk/" class=""><b>Daily Mirror</b> - Official Site</a>
+
+<a href="http://www.mirror.co.uk/" h="ID=SERP,5134.1"><strong>Daily Mirror</strong> - Official Site</a>
+
+http://www.usatoday.com/
+
+<a href="http://www.bbc.co.uk/news" class=""><b>BBC News</b> - Official Site</a>
+
+<a href="http://www.bbc.co.uk/news" h="ID=SERP,5147.1"><strong>BBC News</strong> - Official Site</a>
+
+http://www.today.com/news
+
+<a href="http://www.bbc.co.uk/news/uk" class="">BBC <b>News</b> - UK</a>
+
+<a href="http://www.bbc.co.uk/news/uk" h="ID=SERP,5161.1"><strong>BBC News</strong> - UK</a>
+
+http://www.usatoday.com/news/
+
+<a href="http://www.telegraph.co.uk/news/" class=""><b>News</b> - Latest breaking UK <b>news</b> - Telegraph</a>
+
+<a href="http://www.telegraph.co.uk/news/" h="ID=SERP,5173.1"><strong>News</strong> - Latest breaking UK <strong>news</strong> - Telegraph</a>
+
+http://www.nbcnews.com/
+
+<a href="http://metro.co.uk/news/" class=""><b>News</b> - Latest breaking <b>news</b> and top headlines | Metro UK</a>
+
+<a href="http://metro.co.uk/news/" h="ID=SERP,5185.1"><strong>News</strong> - Latest breaking <strong>news</strong> and top headlines | <strong>Metro</strong> UK</a>
+
+http://timesofindia.indiatimes.com/home/headlines
+
+<a href="http://www.bbc.com/news/uk" class="">BBC <b>News</b> - UK <b>News</b></a>
+
+<a href="http://www.bbc.com/news/uk" h="ID=SERP,5198.1"><strong>BBC News</strong> - UK <strong>News</strong></a>
+
+http://www.newsmax.com/us/
+
+<a href="http://www.bbc.com/news" class=""><b>BBC World News</b> - Official Site</a>
+
+<a href="http://www.bbc.com/news" h="ID=SERP,5211.1"><strong>BBC World News</strong> - Official Site</a>
+
+http://www.foxnews.com/
+
+<a href="http://www.cnn.com/" class=""><b>CNN</b> - Official Site</a>
+
+<a href="http://www.cnn.com/" h="ID=SERP,5224.1"><strong>CNN</strong> - Official Site</a>
+
+http://www.nytimes.com/pages/todaysheadlines/
+
+<a href="http://www.today.com/news/" class=""><b>News</b> - <b>TODAY</b>.com</a>
+
+<a href="http://www.today.com/news/" h="ID=SERP,5237.1"><strong>TODAY News</strong> - Latest <strong>News</strong> Stories from the <strong>TODAY</strong> show ...</a>
+
+http://www.ndtv.com/top-stories
+

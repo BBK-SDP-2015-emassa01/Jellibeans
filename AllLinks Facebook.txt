@@ -1,0 +1,61 @@
+Output from Google, Yahoo and Bing, for query: Facebook
+<a href="https://en-gb.facebook.com/" class=""><b>Facebook</b> - Log In or Sign Up</a>
+
+<a href="https://en-gb.facebook.com/" h="ID=SERP,5113.1"><strong>Facebook</strong> - Log In or Sign Up</a>
+
+https://www.facebook.com/
+
+<a href="https://en-gb.facebook.com/login.php" class="">Log in to <b>Facebook</b> | <b>Facebook</b></a>
+
+<a href="https://www.facebook.com/" h="ID=SERP,5141.1"><strong>Facebook</strong> - Log In or Sign Up</a>
+
+https://m.facebook.com/
+
+<a href="https://www.facebook.com/" class=""><b>Facebook</b> - Log In or Sign Up</a>
+
+<a href="http://search.fb.com/" h="ID=SERP,5154.1"><strong>Facebook</strong> Search | <strong>Facebook</strong> Search</a>
+
+https://www.facebook.com/login/
+
+<a href="http://search.fb.com/" class=""><b>Facebook</b> Search | <b>Facebook</b> Search</a>
+
+<a href="http://www.facebookstories.com/" h="ID=SERP,5167.1"><strong>Facebook Stories</strong> - Official Site</a>
+
+https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en
+
+<a href="http://www.facebookstories.com/" class=""><b>Facebook Stories</b> - Official Site</a>
+
+<a href="/news/search?q=Facebook&amp;qpvt=Facebook&amp;FORM=EWRE" h="ID=SERP,5472.1">News about <strong>Facebook</strong></a>
+
+https://www.facebook.com/facebook
+
+<a href="https://itunes.apple.com/us/app/facebook/id284882215?mt%3D8" class=""><b>Facebook</b> on the App Store on iTunes</a>
+
+<a href="https://itunes.apple.com/us/app/facebook/id284882215?mt%3D8" h="ID=SERP,5188.1"><strong>Facebook</strong> on the App Store on iTunes</a>
+
+https://developers.facebook.com/
+
+<a href="https://newsroom.fb.com/" class=""><b>Facebook</b> Newsroom</a>
+
+<a href="https://newsroom.fb.com/" h="ID=SERP,5201.1"><strong>Facebook</strong> Newsroom</a>
+
+https://itunes.apple.com/us/app/facebook/id284882215?mt=8
+
+<a href="http://www.facebookgroups.com/" class=""><b>Facebook</b> Groups</a>
+
+<a href="http://www.facebookgroups.com/" h="ID=SERP,5214.1"><strong>Facebook</strong> Groups</a>
+
+http://newsroom.fb.com/
+
+<a href="https://developers.facebook.com/" class=""><b>Facebook</b> Developers</a>
+
+<a href="https://developers.facebook.com/" h="ID=SERP,5227.1"><strong>Facebook</strong> Developers</a>
+
+http://mashable.com/category/facebook/
+
+<a href="http://www.telegraph.co.uk/technology/facebook/" class=""><b>Facebook</b> news and reviews - Telegraph</a>
+
+<a href="http://www.telegraph.co.uk/technology/facebook/" h="ID=SERP,5242.1"><strong>Facebook</strong> news and reviews - Telegraph</a>
+
+https://en.wikipedia.org/wiki/Facebook
+
